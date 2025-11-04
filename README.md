@@ -47,6 +47,7 @@ The supplied .yml file should install all the prerequisite packages and more...
     asdfasdf
     ```
     - This will generate gaussian input files for running dihedral scans for each individual exocyclic group.
+    -
 * Step 3 - Perform final optimizations of the lowest energy configurations identified from Step 2
   - asdfkjasdf
   - asdfkljasldkfj
