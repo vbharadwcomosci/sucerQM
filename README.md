@@ -17,7 +17,7 @@ This code requires the following pre-requisite packages to be installed.
 - Matplotlib
 - RingAnalysis (https://github.com/lucianlschan/RING)
 - RingReconstruction (https://github.com/lucianlschan/RING)
-- py_rdl (RingDecomposerLib) (https://github.com/rareylab/RingDecomposerLib)]
+- py_rdl (RingDecomposerLib) (https://github.com/rareylab/RingDecomposerLib)
 
 
 ## Running sucer-QM
