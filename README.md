@@ -42,15 +42,6 @@ This code requires the following pre-requisite packages to be installed.
     ```
     - 
 * Step 2 - Perform dihedral scans for exocyclic groups attached to the sugar
-  - kdjfa'lsdf
-  - ```
-    ksjdfasdf
-    asdfasdf
-    ```
-    - This will generate gaussian input files for running dihedral scans for each individual exocyclic group.
-    -
+
 * Step 3 - Perform final optimizations of the lowest energy configurations identified from Step 2
-  - asdfkjasdf
-  - asdfkljasldkfj
-  - 
-aaaa
+
